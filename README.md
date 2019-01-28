@@ -1,3 +1,6 @@
+# Hornet and HornetsNest repos have been merged into a single repo [**Hornet repository**](https://github.com/hornet-gt/hornet). This repo is no longer being actively maintained. All bug fixes are in the new repo.#
+
+
 # HornetAlg #
 
 The repository provides the graph algorithms implemented on top Hornet
